@@ -1657,6 +1657,8 @@ F 0 "J1" H 11222 4182 50  0000 R CNN
 F 1 "Conn_01x06_Male" H 11250 3850 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 11250 4300 50  0001 C CNN
 F 3 "~" H 11250 4300 50  0001 C CNN
+F 4 "n.b." H 11250 4300 50  0001 C CNN "Reichelt"
+F 5 "n.b." H 11250 4300 50  0001 C CNN "manf#"
 	1    11250 4300
 	-1   0    0    -1  
 $EndComp

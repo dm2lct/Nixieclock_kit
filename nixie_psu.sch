@@ -529,7 +529,7 @@ P 7650 2250
 F 0 "68uH1" H 7650 2465 50  0000 C CNN
 F 1 "INDUCTOR" H 7650 2374 50  0000 C CNN
 F 2 "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS_Handsoldering" H 7650 2250 50  0001 C CNN
-F 3 "~" H 7650 2250 50  0001 C CNN
+F 3 "https://cdn-reichelt.de/documents/datenblatt/B300/7447709680_ENG_TDS.pdf" H 7650 2250 50  0001 C CNN
 F 4 "7447709680" H 7650 2250 50  0001 C CNN "manf#"
 F 5 "WUE 7447709680" H 0   0   50  0001 C CNN "Reichelt"
 	1    7650 2250
@@ -986,6 +986,7 @@ F 0 "D2" H 4244 2846 50  0000 L CNN
 F 1 "PRTR5V0U2X" H 4244 2755 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-143" H 3760 2800 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 3760 2800 50  0001 C CNN
+F 4 "PRTR5V0U2X,215" H 3700 2800 50  0001 C CNN "manf#"
 	1    3700 2800
 	1    0    0    -1  
 $EndComp

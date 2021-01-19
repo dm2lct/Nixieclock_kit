@@ -115,6 +115,8 @@ F 0 "FID1" H 3735 5596 50  0000 L CNN
 F 1 "Fiducial" H 3735 5505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 3650 5550 50  0001 C CNN
 F 3 "~" H 3650 5550 50  0001 C CNN
+F 4 "n.b." H 3650 5550 50  0001 C CNN "Reichelt"
+F 5 "n.b." H 3650 5550 50  0001 C CNN "manf#"
 	1    3650 5550
 	1    0    0    -1  
 $EndComp
@@ -126,6 +128,8 @@ F 0 "FID2" H 4135 5596 50  0000 L CNN
 F 1 "Fiducial" H 4135 5505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 4050 5550 50  0001 C CNN
 F 3 "~" H 4050 5550 50  0001 C CNN
+F 4 "n.b." H 4050 5550 50  0001 C CNN "Reichelt"
+F 5 "n.b." H 4050 5550 50  0001 C CNN "manf#"
 	1    4050 5550
 	1    0    0    -1  
 $EndComp
@@ -137,6 +141,8 @@ F 0 "FID3" H 4535 5596 50  0000 L CNN
 F 1 "Fiducial" H 4535 5505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 4450 5550 50  0001 C CNN
 F 3 "~" H 4450 5550 50  0001 C CNN
+F 4 "n.b." H 4450 5550 50  0001 C CNN "Reichelt"
+F 5 "n.b." H 4450 5550 50  0001 C CNN "manf#"
 	1    4450 5550
 	1    0    0    -1  
 $EndComp
@@ -148,6 +154,8 @@ F 0 "FID4" H 4885 5596 50  0000 L CNN
 F 1 "Fiducial" H 4885 5505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 4800 5550 50  0001 C CNN
 F 3 "~" H 4800 5550 50  0001 C CNN
+F 4 "n.b." H 4800 5550 50  0001 C CNN "Reichelt"
+F 5 "n.b." H 4800 5550 50  0001 C CNN "manf#"
 	1    4800 5550
 	1    0    0    -1  
 $EndComp
