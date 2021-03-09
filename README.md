@@ -7,6 +7,7 @@ Better version of my nixie clock.
 Feel free to build your own nixie clock from it.
 
 The firmware can be found at https://codeberg.org/paul/nixie_clock
+
 The documentation and assembly instructions are on https://wiki.turmlabor.de/index.php?title=Nixie_Uhr_Bausatz_2.1 (currently only in german, sorry!)
 
 Features:
