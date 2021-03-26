@@ -8,9 +8,12 @@ Feel free to build your own nixie clock from it.
 
 The firmware can be found at https://codeberg.org/paul/nixie_clock
 
+The documentation and assembly instructions are on https://wiki.turmlabor.de/index.php?title=Nixie_Uhr_Bausatz_2.1 (currently only in german, sorry!)
+
 Features:
-  - IN14 nixie tubes but you can adapt many other nixie tubes even if it would not look great
-  - ESP12e controller so you can make IoT with it and build your own botnet for world domination if you have enough clocks
+  - IN14 nixie tubes but you can adapt many other nixie tubes, but some of them would not fit nicely in the board
+  - ESP12e controller so you can make IoT with it and build your own botnet for world domination, if you have enough clocks.
+    But mainly the wifi is used to get the time from a ntp-server and for controlling the clock with MQTT
   - DS3231 RTC for everyone who does not like IoT and does also not want to be enslaved from AI
   - WS2812B under each nixie tube to make them look more fancy
   - runs from a simple USB charger, although it uses a mini-usb B socket, which is better to solder, so you need a mini-usb cable
